@@ -4,3 +4,9 @@
 
 *.opendb
 *.vsidx
+*.tlog
+/Test0507inMega/Release
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/.vs/withJY/v17/.wsuo
+/.vs/withJY/v17/Browse.VC.db
