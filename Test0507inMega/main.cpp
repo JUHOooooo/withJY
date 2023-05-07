@@ -10,7 +10,10 @@ int main()
 		cout << i << " ";
 	}
 
-	cout << "µş²Ú..." << endl;
+	cout << "DdalGguk..." << endl;
+	cout << "Hamzzi is so cute~" << endl;
+	cout << "zizza~ Cuuuuuute" << endl;
+	cout << "2023.05.07" << endl;
 
 	return 0;
 }
